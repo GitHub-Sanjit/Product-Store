@@ -1,0 +1,29 @@
+{
+  "name": "product-store",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon backend/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GitHub-Sanjit/Product-Store.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/GitHub-Sanjit/Product-Store/issues"
+  },
+  "homepage": "https://github.com/GitHub-Sanjit/Product-Store#readme",
+  "dependencies": {
+    "dotenv": "^17.3.1",
+    "express": "^4.19.2",
+    "mongoose": "^9.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
