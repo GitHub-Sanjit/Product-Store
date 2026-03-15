@@ -19,8 +19,12 @@
   },
   "homepage": "https://github.com/GitHub-Sanjit/Product-Store#readme",
   "dependencies": {
+    "@chakra-ui/react": "^2.10.9",
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.1",
     "dotenv": "^17.3.1",
     "express": "^4.19.2",
+    "framer-motion": "^12.36.0",
     "mongoose": "^9.3.0"
   },
   "devDependencies": {
